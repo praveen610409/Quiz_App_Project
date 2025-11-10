@@ -61,3 +61,28 @@
     background-color: #ffebeb;
     border: 3px solid #dd1717;
 }
+
+.welcome-screen {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    text-align: center;
+    padding: 40px;
+    animation: fadeIn 0.8s ease-in-out;
+}
+
+.welcome-screen h2 {
+    font-size: 28px;
+    color: blueviolet;
+}
+
+.welcome-screen p {
+    font-size: 18px;
+    color: #333;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; transform: scale(0.9); }
+    to { opacity: 1; transform: scale(1); }
+}
