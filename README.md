@@ -59,6 +59,8 @@ Then open the link shown in the terminal (usually http://localhost:5173).
 
 🧩 The app shows multiple-choice questions one by one, with real-time feedback and score calculation.
 
+![Quiz App](https://github.com/praveen610409/Quiz_App_Project/blob/8b09b50dd87d4eb50d6e5b9fd6ffb860afb4b1dd/Quiz_App.png)
+
 ![Quiz App ](https://github.com/praveen610409/Quiz_App_Project/blob/94c5fbb019a0a04a4461cf8afa4cae09c84ff7f6/QuizApp.png)
 ![Quiz App ](https://github.com/praveen610409/Quiz_App_Project/blob/94c5fbb019a0a04a4461cf8afa4cae09c84ff7f6/QuizApp2.png)
 ![Quiz App ](https://github.com/praveen610409/Quiz_App_Project/blob/94c5fbb019a0a04a4461cf8afa4cae09c84ff7f6/QuizApp3.png)
